@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ank9812
 - 👀 I’m interested in AI 
-- 📍 Bachelors of Artificial Intelligence in Deakin University, Australia 
+- 📍 Studying Bachelors of Artificial Intelligence in Deakin University, Australia 
 - 🌱 I’m currently learning Nueral network 
 - 💞️ I’m looking to collaborate on related to AI 
 - 📫 How to reach me at wfw@deakin.edu.au
